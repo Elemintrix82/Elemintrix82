@@ -8,7 +8,7 @@ I'm a Web and Mobile developer, AI and Robotics Enthusiast. I spend most of my t
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://x.com/valdezwilson82) [![Linkedin Badge](https://img.shields.io/badge/-NelsonDN-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdez-wilson-6741802a0/)  [![Mail Badge](https://img.shields.io/badge/-nelsondada-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:valdezwilson82@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@valdezwilson82-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/citoyenX1)](https://x.com/valdezwilson82) [![Linkedin Badge](https://img.shields.io/badge/-FotsoValdez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdez-wilson-6741802a0/)  [![Mail Badge](https://img.shields.io/badge/-FotsoValdez-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:valdezwilson82@gmail.com)
 
 <!-- ### 1.1. CoderOne Newsletter
 Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
