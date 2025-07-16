@@ -1,4 +1,6 @@
-# 👋 FOTSO TEKAM Valdez Wilsons | Full-Stack Developer | AI Engineer | Data Scientist | Software Engineer & AI Researcher
+# Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="24px" alt="hello"> I'm FOTSO TEKAM Valdez Wilsons | Full-Stack Developer | AI Engineer | Data Scientist
+
+<a href="https://github.com/Elemintrix82"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=198E19&center=true&width=435&lines=Full-Stack+Developer;AI+Engineer;Data+Scientist;Software+Engineer+%26+AI+Researcher" alt="Typing SVG" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdez-wilsons-fotso-tekam-6741802a0/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/valdezwilson82)
@@ -6,9 +8,12 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:valdezwilson82@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://jeunesse.francophonie.org/modifier-mon-profil/item/fotso-tekam-valdez-wilsons)
 
+<img align="right" alt="Coding" width="430" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elemintrix82&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elemintrix82&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elemintrix82&theme=tokyonight&hide_border=true)
+
+<br clear="right"/>
 
 ## 🔍 Professional Overview
 
