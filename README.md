@@ -1,107 +1,123 @@
-## Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="24px" alt="hello">, I'm Fotso Tekam Valdez Wilsons
+# 👋 FOTSO TEKAM Valdez Wilsons | Full-Stack Developer | AI Engineer | Data Scientist | Software Engineer & AI Researcher
 
-<!-- 
-🚀 Check out my test portfolio [nelsondada.cv.com](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing) 
- -->
- 
-I'm a Web and Mobile developer, AI and Robotics Enthusiast. I spend most of my time coding passionate projects or writing scientifics paper.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdez-wilsons-fotso-tekam-6741802a0/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/valdezwilson82)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Elemintrix82)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:valdezwilson82@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://jeunesse.francophonie.org/modifier-mon-profil/item/fotso-tekam-valdez-wilsons)
 
-:mailbox: Reach me out!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elemintrix82&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elemintrix82&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elemintrix82&theme=tokyonight&hide_border=true)
 
-[![Twitter Badge](https://img.shields.io/badge/-@valdezwilson82-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/citoyenX1)](https://x.com/valdezwilson82) [![Linkedin Badge](https://img.shields.io/badge/-FotsoValdez-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdez-wilson-6741802a0/)  [![Mail Badge](https://img.shields.io/badge/-FotsoValdez-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:valdezwilson82@gmail.com)
+## 🔍 Professional Overview
 
-<!-- ### 1.1. CoderOne Newsletter
-Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
+**Full-Stack Developer | AI Specialist | Data Scientist** with expertise in building scalable web applications and AI solutions. Passionate about leveraging cutting-edge technologies to solve complex problems. Currently pursuing **Master's in Computer Engineering with focus on Data Science & AI** at ENSPD Douala.
 
-👉 [Join Here](https://islemmaboud.com/join-newsletter) -->
+## 🛠 Technical Stack
 
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
+### Web Development
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-<!-- TODO: Add last video link -->
-<!-- I design an code fullstack web architecture -->
-### About me
+### AI/ML & DevOps
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I'm currently working on side projects in data science, constantly expanding my skills and knowledge in this field.
-- 🌱 I’m currently learning **ReactJs, React native, Docker, Kubernetes, TensorFlow, Keras**
-- 👯 I’m looking to collaborate on **IT projects**
-- 📫 How to reach me : valdezwilson82@gmail.com..
-- ⚡ Fun fact : I love playing chess and thinking about simple back-end system architectures.
+## 🌱 Currently Learning
+- Advanced Machine Learning techniques
+- Kubernetes orchestration
+- Microservices architecture
+- Blockchain fundamentals
 
-<!-- #### Github Stats
+## 💼 Professional Experience
 
-![Nelson Dada's github stats](https://github-readme-stats.vercel.app/api?username=NelsonDN&count_private=true&theme=tokyonight&hide=contribs,prs) -->
+### Lead Developer | ESSEC Douala
+**09/2024 - Present**  
+• Redesigned institutional website with modern UX/UI principles  
+• Implemented CI/CD pipeline reducing deployment time by 40%  
+• Technologies: React, Django, AWS  
+• [View Project](https://essec-dla.com/)
 
-<!--
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/citoyenX1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ninja_frontend" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nelson-dada-137389250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nelson-dada-137389250/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.youtube.com/@citoyenx1470/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@citoyenx1470/" height="30" width="40" /></a>
-<a href="https://medium.com/@nelsondada10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nelsondada10" height="30" width="40" /></a>
-</p>
--->
+### Web Developer | Entrepreneurship Conference
+**06/2025 - 07/2025**  
+• Developed international conference platform with multilingual support  
+• Created event management and registration system  
+• [View Project](https://entrepreneurshipfordevelopmentconference.org/)
 
-<!--
-### Languages and Tools : 
+### Software Engineer | EstimPro
+**01/2025 - 03/2025**  
+• Built AI-powered cost estimation web application  
+• Scalable architecture handling 10,000+ monthly users  
+• [View Project](https://estimpro.com/)
 
+### Full-Stack Developer | FSEGA Douala
+**07/2024 - 10/2024**  
+• Developed academic management system with payment integration  
+• Processed $50K+ in transactions  
+• [View Project](https://fsega-douala.org/)
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+## 🎓 Education
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
+**Master 2 Research in Computer Engineering, Data Science & AI**  
+ENSPD Douala | 2024-Present  
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+**Master in Computer Science Engineering**  
+ENSET Douala | 2022-2024 | *Mention: Très Bien*  
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+## 🏆 Scientific Contributions
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+### Published Research
+🔬 **Cryptographic Algorithm for ESP-NOW Protocol**  
+Published in Scientific Research Journal (04/2025)  
+[Read Paper](https://www.scirp.org/journal/paperinformation?paperId=142117)  
 
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+🖥 **PControl Web Application**  
+Collaboration with Dr. Manga Betene  
+[View Project](https://jias.issr-journals.org/fr/authid.php?id=13329)  
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+## 🚀 Featured Projects
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+### AkhaplMarket (E-Commerce)
+• Full-featured marketplace with payment integration  
+• Stack: Django, React, PostgreSQL  
+• [Live Demo](https://akhapmarket.akhapi.com/)  
 
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/aws/aws.png" />
+### Akhapi-Okhapi (Community Safety)
+• Missing persons reporting platform  
+• Geolocation and notification features  
+• [View Project](https://akhapi-okhapi.com/)  
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+## 📜 Certifications
+- Full Stack Web Development with Python & Django (2023)
+- Advanced Django Web Applications (2023)
 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+## 🌐 Languages
+- French (Native)
+- English (Professional)
 
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/flask/flask.png" />
+## 📬 Let's Connect
+📧 [valdezwilson82@gmail.com](mailto:valdezwilson82@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/valdez-wilsons-fotso-tekam-6741802a0/)  
+🐦 [Twitter @valdezwilson82](https://x.com/valdezwilson82)  
 
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/django/django.png" />
+![Profile Views](https://komarev.com/ghpvc/?username=Elemintrix82&color=0e7490&style=flat)
 
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/vue/vue.png" />
-
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/xamarin/xamarin.png" />
--->
-
-<br />
-
-
-<!--
-#### Bizness
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1HxacjgCj5nee9_zhSPM3Jx27uLfPODsv/view?usp=sharing)
-- :email: nelsondada10@gmail.com
--->
-
-
-### Contact Me 
-- :email: valdezwilson82@gmail.com
-
-
-<!--
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=NelsonDN.NelsonDN)-->
-<!--
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-#### Building....?
-
-Just Keep Faith!
-
-</details>
--->
+<!-- SEO Keywords -->
+Full-Stack Developer, AI Engineer, Data Scientist, Web Developer Cameroon, Django Expert, React Developer, Machine Learning Specialist, Python Developer, Software Engineer Douala, Academic Researcher, Published Scientist, Tech Conference Speaker, Cloud Architect, DevOps Engineer
