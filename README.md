@@ -127,5 +127,8 @@ Collaboration with Dr. Manga Betene
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Elemintrix82&color=0e7490&style=flat)
 
-<!-- SEO Keywords -->
-Full-Stack Developer, AI Engineer, Data Scientist, Web Developer Cameroon, Django Expert, React Developer, Machine Learning Specialist, Python Developer, Software Engineer Douala, Academic Researcher, Published Scientist, Tech Conference Speaker, Cloud Architect, DevOps Engineer
+</br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pr,ps,github,gitlab,bitbucket,replit,vercel,codepen,sublime,powershell,vscode,vim,apple,windows,linux,debian,octave,py,java,cpp,html,css,js,docker,postman" />
+</a>
