@@ -1,4 +1,5 @@
-# <h1 align="center"> Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="24px" alt="hello"> I'm FOTSO TEKAM Valdez Wilsons </br> Full-Stack Developer | AI Engineer | Data Scientist</h1>
+# <h1 align="center">Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="24px" alt="hello"> I'm FOTSO TEKAM Valdez Wilsons</h1>
+<h3 align="center">Full-Stack Developer | AI Engineer | Data Scientist</h3>
 
 
 <p align="center">
@@ -12,10 +13,8 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:valdezwilson82@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://jeunesse.francophonie.org/modifier-mon-profil/item/fotso-tekam-valdez-wilsons)
 
-<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elemintrix82&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elemintrix82&layout=compact&theme=tokyonight&hide_border=true)
-</div>
 
 <br clear="right"/>
 
