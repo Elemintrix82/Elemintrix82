@@ -1,11 +1,9 @@
 # <h1 align="center">Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="24px" alt="hello"> I'm FOTSO TEKAM Valdez Wilsons</h1>
 <h3 align="center">Full-Stack Developer | AI Engineer | Data Scientist</h3>
 
-
 <p align="center">
 <a href="https://github.com/Elemintrix82"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=198E19&center=true&width=435&lines=Full-Stack+Developer;AI+Engineer;Data+Scientist;Software+Engineer+%26+AI+Researcher" alt="Typing SVG" /></a>
 </p>
-
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdez-wilsons-fotso-tekam-6741802a0/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/valdezwilson82)
